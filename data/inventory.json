@@ -1,0 +1,1585 @@
+[
+  {
+    "id": "tl-001",
+    "sourceNumber": 1,
+    "brand": "Canon",
+    "model": "EOS M100",
+    "price": 32899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Walang nakasaad na issue",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-008.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-002",
+    "sourceNumber": 2,
+    "brand": "Canon",
+    "model": "PowerShot SX710 HS",
+    "price": 17299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Minimal vignetting",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-011.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-003",
+    "sourceNumber": 3,
+    "brand": "Canon",
+    "model": "IXUS 190 / ELPH 190 IS",
+    "price": 11899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Walang functional issue; may cosmetic issues na ipinapakita sa 5th photo",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-013.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-004",
+    "sourceNumber": 4,
+    "brand": "Canon",
+    "model": "IXUS 185 / ELPH 180",
+    "price": 11899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-014.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-005",
+    "sourceNumber": 5,
+    "brand": "Canon",
+    "model": "IXUS 155",
+    "price": 7499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Slightly bright LCD",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-015.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-006",
+    "sourceNumber": 6,
+    "brand": "Canon",
+    "model": "IXUS 125 HS / ELPH 110 HS",
+    "price": 11899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-016.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-007",
+    "sourceNumber": 7,
+    "brand": "Canon",
+    "model": "PowerShot ELPH 135 IS",
+    "price": 11899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-017.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-008",
+    "sourceNumber": 8,
+    "brand": "Canon",
+    "model": "PowerShot ELPH 135 IS",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Missing battery lock; intact ang battery door",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-018.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-009",
+    "sourceNumber": 9,
+    "brand": "Canon",
+    "model": "PowerShot A3400 IS",
+    "price": 8999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-019.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-010",
+    "sourceNumber": 10,
+    "brand": "Canon",
+    "model": "PowerShot A250",
+    "price": 8699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-011",
+    "sourceNumber": 11,
+    "brand": "Canon",
+    "model": "PowerShot A2400 IS — Baby Blue",
+    "price": 8899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-021.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-012",
+    "sourceNumber": 12,
+    "brand": "Canon",
+    "model": "PowerShot A2400 IS — Black",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-022.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-013",
+    "sourceNumber": 13,
+    "brand": "Canon",
+    "model": "PowerShot A2300",
+    "price": 8299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-023.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-014",
+    "sourceNumber": 14,
+    "brand": "Canon",
+    "model": "PowerShot A200 IS",
+    "price": 5899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "2 AA batteries",
+      "SD card",
+      "pouch",
+      "hand strap; uses AA batteries; no charger listed"
+    ],
+    "status": "needs_review",
+    "imageUrl": "",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-015",
+    "sourceNumber": 15,
+    "brand": "Canon",
+    "model": "PowerShot A800",
+    "price": 5499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-052.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-016",
+    "sourceNumber": 16,
+    "brand": "Canon",
+    "model": "PowerShot A200",
+    "price": 5299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-053.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-017",
+    "sourceNumber": 17,
+    "brand": "Canon",
+    "model": "PowerShot A-series — model unclear",
+    "price": 5299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues; model unclear in source PDF",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-018",
+    "sourceNumber": 18,
+    "brand": "Canon",
+    "model": "PowerShot A2200",
+    "price": 4799,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-080.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-019",
+    "sourceNumber": 19,
+    "brand": "Canon",
+    "model": "PowerShot A2300",
+    "price": 4999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Minimal LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-083.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-020",
+    "sourceNumber": 20,
+    "brand": "Sony",
+    "model": "Bloggie MHS-PJ1",
+    "price": 12499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Hindi malinaw ang issue sa screenshot",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-001.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-021",
+    "sourceNumber": 21,
+    "brand": "Sony",
+    "model": "Handycam DCR-SR68",
+    "price": 10899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Medyo maluwag ang LCD kapag binubuksan",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-002.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-022",
+    "sourceNumber": 22,
+    "brand": "Sony",
+    "model": "Handycam HDR-CX190",
+    "price": 11899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-003.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-023",
+    "sourceNumber": 23,
+    "brand": "Sony",
+    "model": "Handycam HDR-CX220",
+    "price": 11499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-004.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-024",
+    "sourceNumber": 24,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-WX30",
+    "price": 8699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-033.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-025",
+    "sourceNumber": 25,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-H3",
+    "price": 8699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-034.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-026",
+    "sourceNumber": 26,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-T99",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-035.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-027",
+    "sourceNumber": 27,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-TX9",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-036.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-028",
+    "sourceNumber": 28,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W800",
+    "price": 8699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-037.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-029",
+    "sourceNumber": 29,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W710",
+    "price": 7999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-038.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-030",
+    "sourceNumber": 30,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W610",
+    "price": 7699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-039.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-031",
+    "sourceNumber": 31,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W530",
+    "price": 7699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-040.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-032",
+    "sourceNumber": 32,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W530",
+    "price": 7499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-041.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-033",
+    "sourceNumber": 33,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W510",
+    "price": 7299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-042.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-034",
+    "sourceNumber": 34,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W320",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "original box"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-043.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-035",
+    "sourceNumber": 35,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W320",
+    "price": 7299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-044.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-036",
+    "sourceNumber": 36,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W320",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "original box"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-045.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-037",
+    "sourceNumber": 37,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W310",
+    "price": 7299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-046.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-038",
+    "sourceNumber": 38,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W310",
+    "price": 6899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-047.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-039",
+    "sourceNumber": 39,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W330",
+    "price": 4999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Isang hairline mark sa LCD",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-059.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-040",
+    "sourceNumber": 40,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W510",
+    "price": 2999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Missing battery lock; bahagyang sira ang battery door",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-077.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-041",
+    "sourceNumber": 41,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W220",
+    "price": 3899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-078.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-042",
+    "sourceNumber": 42,
+    "brand": "Sony",
+    "model": "Cyber-shot DSC-W510",
+    "price": 4899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Yellowish LCD",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-079.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-043",
+    "sourceNumber": 43,
+    "brand": "JVC",
+    "model": "Everio GZ-MG530",
+    "price": 11499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-005.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-044",
+    "sourceNumber": 44,
+    "brand": "JVC",
+    "model": "Everio GZ-MS100",
+    "price": 10699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-006.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-045",
+    "sourceNumber": 45,
+    "brand": "JVC",
+    "model": "PICSIO GC-FM1",
+    "price": 3899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "built-in rechargeable battery",
+      "charger"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-073.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-046",
+    "sourceNumber": 46,
+    "brand": "Nikon",
+    "model": "COOLPIX S8000",
+    "price": 11499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-025.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-047",
+    "sourceNumber": 47,
+    "brand": "Nikon",
+    "model": "COOLPIX L110",
+    "price": 8299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "4 AA batteries",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-026.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-048",
+    "sourceNumber": 48,
+    "brand": "Nikon",
+    "model": "COOLPIX S3300",
+    "price": 8699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-027.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-049",
+    "sourceNumber": 49,
+    "brand": "Nikon",
+    "model": "COOLPIX S3200",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-028.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-050",
+    "sourceNumber": 50,
+    "brand": "Nikon",
+    "model": "COOLPIX S100",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-030.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-051",
+    "sourceNumber": 51,
+    "brand": "Nikon",
+    "model": "COOLPIX S100",
+    "price": 8499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-031.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-052",
+    "sourceNumber": 52,
+    "brand": "Nikon",
+    "model": "COOLPIX S70",
+    "price": 8299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-032.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-053",
+    "sourceNumber": 53,
+    "brand": "Nikon",
+    "model": "COOLPIX W100",
+    "price": 4899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-069.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-054",
+    "sourceNumber": 54,
+    "brand": "Nikon",
+    "model": "COOLPIX E3100",
+    "price": 3499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD leak; ayon sa caption, hindi naaapektuhan ang photo output",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-084.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-055",
+    "sourceNumber": 55,
+    "brand": "Nikon",
+    "model": "COOLPIX E4100",
+    "price": 3899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Minimal LCD burn",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-085.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-056",
+    "sourceNumber": 56,
+    "brand": "Fujifilm",
+    "model": "X-A10",
+    "price": 18999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Fully functional; limitado ang full 180° flip-up selfie function ng LCD",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-009.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-058",
+    "sourceNumber": 58,
+    "brand": "Samsung",
+    "model": "L301",
+    "price": 4999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "rechargeable battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-060.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-059",
+    "sourceNumber": 59,
+    "brand": "Samsung",
+    "model": "DV100",
+    "price": 4799,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-067.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-060",
+    "sourceNumber": 60,
+    "brand": "Olympus",
+    "model": "Stylus 830",
+    "price": 5499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-048.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-061",
+    "sourceNumber": 61,
+    "brand": "Olympus",
+    "model": "D-560 Zoom",
+    "price": 5499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "4 AA batteries",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-049.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-062",
+    "sourceNumber": 62,
+    "brand": "Olympus",
+    "model": "FE-150",
+    "price": 5299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-050.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-063",
+    "sourceNumber": 63,
+    "brand": "Olympus",
+    "model": "Stylus 820",
+    "price": 4899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Missing upper lens curtain; ayon sa caption, hindi naaapektuhan ang functionality",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-051.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-064",
+    "sourceNumber": 64,
+    "brand": "Olympus",
+    "model": "VG-150",
+    "price": 5299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-055.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-065",
+    "sourceNumber": 65,
+    "brand": "Olympus",
+    "model": "VG-110",
+    "price": 5299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-056.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-066",
+    "sourceNumber": 66,
+    "brand": "Olympus",
+    "model": "VG-170",
+    "price": 3999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-074.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-067",
+    "sourceNumber": 67,
+    "brand": "AgfaPhoto",
+    "model": "SELECTA 14",
+    "price": 5299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Kailangang kumpirmahin ang kondisyon sa post",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-057.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-068",
+    "sourceNumber": 68,
+    "brand": "AgfaPhoto",
+    "model": "SELECTA 14",
+    "price": 5299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Kailangang kumpirmahin ang kondisyon sa post",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-058.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-069",
+    "sourceNumber": 69,
+    "brand": "Panasonic",
+    "model": "Lumix DMC-FX1",
+    "price": 3999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-061.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-070",
+    "sourceNumber": 70,
+    "brand": "Panasonic",
+    "model": "Lumix DMC-LS6",
+    "price": 4299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-082.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-071",
+    "sourceNumber": 71,
+    "brand": "GE",
+    "model": "PJ1",
+    "price": 4999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "rechargeable battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-062.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-072",
+    "sourceNumber": 72,
+    "brand": "GE",
+    "model": "A950",
+    "price": 4999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-063.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-073",
+    "sourceNumber": 73,
+    "brand": "GE",
+    "model": "A1255",
+    "price": 4999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-064.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-074",
+    "sourceNumber": 74,
+    "brand": "GE",
+    "model": "A1035",
+    "price": 4999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-065.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-075",
+    "sourceNumber": 75,
+    "brand": "Ricoh",
+    "model": "Caplio RR211",
+    "price": 4699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-066.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-076",
+    "sourceNumber": 76,
+    "brand": "HP",
+    "model": "s300",
+    "price": 4899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-068.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-077",
+    "sourceNumber": 77,
+    "brand": "HP",
+    "model": "s300",
+    "price": 3499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-086.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-078",
+    "sourceNumber": 78,
+    "brand": "Casio",
+    "model": "EX-Z30",
+    "price": 3699,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "rechargeable battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-071.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-079",
+    "sourceNumber": 79,
+    "brand": "Casio",
+    "model": "EX-Z40",
+    "price": 4899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "rechargeable battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-072.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-080",
+    "sourceNumber": 80,
+    "brand": "Casio",
+    "model": "Exilim EX-Z370*",
+    "price": 4299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Dumi sa LCD",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-081.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-081",
+    "sourceNumber": 81,
+    "brand": "Sanyo",
+    "model": "Xacti E6",
+    "price": 4899,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "rechargeable battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-070.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-082",
+    "sourceNumber": 82,
+    "brand": "Sanyo",
+    "model": "Xacti VPC-1",
+    "price": 2999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-076.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-083",
+    "sourceNumber": 83,
+    "brand": "Pentax",
+    "model": "Optio RZ10",
+    "price": 4499,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "Walang functional issue; may signs of use sa body",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-075.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-084",
+    "sourceNumber": 84,
+    "brand": "Praktica",
+    "model": "Luxmedia 14-250",
+    "price": 2999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "LCD burn",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-087.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-085",
+    "sourceNumber": 85,
+    "brand": "Canon",
+    "model": "FS100",
+    "price": 10299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-007.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-086",
+    "sourceNumber": 86,
+    "brand": "Canon",
+    "model": "PowerShot N",
+    "price": 18299,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-010.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  },
+  {
+    "id": "tl-087",
+    "sourceNumber": 87,
+    "brand": "Canon",
+    "model": "PowerShot A3400 IS",
+    "price": 8999,
+    "condition": "Imported from inventory PDF; verify against original listing",
+    "issues": "No issues",
+    "inclusions": [
+      "Unit",
+      "battery",
+      "charger",
+      "SD card",
+      "pouch",
+      "hand strap"
+    ],
+    "status": "needs_review",
+    "imageUrl": "/photos/camera-photo-019.jpg",
+    "notes": "Imported from camera list PDF. Availability, exact price, condition, inclusions, and photos must be verified before marking Available."
+  }
+]

@@ -1,0 +1,26 @@
+[
+  {
+    "id": "526223bf1a95a669",
+    "at": "2026-11-02T04:21:12.210Z",
+    "action": "camera_removed",
+    "cameraId": "admin-1793593255264-4b0cf9",
+    "camera": "Canon 55"
+  },
+  {
+    "id": "c0c5277099ea9aa9",
+    "at": "2026-11-02T04:20:55.267Z",
+    "action": "camera_added",
+    "cameraId": "admin-1793593255264-4b0cf9",
+    "camera": "Canon 55",
+    "source": "admin"
+  },
+  {
+    "id": "4dd130e4233cf023",
+    "at": "2026-11-02T04:14:34.656Z",
+    "action": "customer_interest",
+    "cameraId": "sheet-2-canon-eos-m100",
+    "camera": "Canon EOS M100",
+    "channel": "messenger",
+    "leadId": "3f0ff910a31a0bab"
+  }
+]

@@ -1,0 +1,872 @@
+[
+  {
+    "id": "photo-001",
+    "title": "Sony Bloggie MHS-PJ1 .° 9",
+    "imageUrl": "/photos/camera-photo-001.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Bloggie MHS-PJ1",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163647.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-002",
+    "title": "Sony Handycam DCR-SR68 .° 9",
+    "imageUrl": "/photos/camera-photo-002.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Handycam DCR-SR68",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163656.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-003",
+    "title": "Sony Handycam HDR-CX190 .° 9",
+    "imageUrl": "/photos/camera-photo-003.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Handycam HDR-CX190",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163708.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-004",
+    "title": "Se Sony Handycam HDR-CX220 .° 9",
+    "imageUrl": "/photos/camera-photo-004.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Handycam HDR-CX220",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163715.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-005",
+    "title": "a ee JVC Everio GZ-MG530 .° 9",
+    "imageUrl": "/photos/camera-photo-005.jpg",
+    "matchedBrand": "JVC",
+    "matchedModel": "Everio GZ-MG530",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163724.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-006",
+    "title": "vnc ran : JVC Everio GZ-MS100 .° 9",
+    "imageUrl": "/photos/camera-photo-006.jpg",
+    "matchedBrand": "JVC",
+    "matchedModel": "Everio GZ-MS100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163746.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-007",
+    "title": ". Canon F$100 .° 9",
+    "imageUrl": "/photos/camera-photo-007.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "FS100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163754.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-008",
+    "title": "Canon EOS M100 +.° -g7x dupe and better!",
+    "imageUrl": "/photos/camera-photo-008.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "EOS M100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163804.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-009",
+    "title": "Fujifilm X-A10",
+    "imageUrl": "/photos/camera-photo-009.jpg",
+    "matchedBrand": "Fujifilm",
+    "matchedModel": "X-A10",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163812.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-010",
+    "title": "Canon PowerShot N",
+    "imageUrl": "/photos/camera-photo-010.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot N",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163854.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-011",
+    "title": "\\ . PowerShot $X710 HS .° 9",
+    "imageUrl": "/photos/camera-photo-011.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot SX710 HS",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163900.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-012",
+    "title": "Qiu through.lens,ph + Samsung MV800 +.° 9",
+    "imageUrl": "/photos/camera-photo-012.jpg",
+    "matchedBrand": "",
+    "matchedModel": "",
+    "matchScore": 0,
+    "sourceFile": "Screenshot 2026-10-31 163907.png",
+    "verifiedModelMatch": false
+  },
+  {
+    "id": "photo-013",
+    "title": "| .. IXUS 190 (ELPH 190 IS) .° 9",
+    "imageUrl": "/photos/camera-photo-013.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "IXUS 190 / ELPH 190 IS",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163915.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-014",
+    "title": "Canon [XUS 185 (ELPH 180) +.° 9",
+    "imageUrl": "/photos/camera-photo-014.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "IXUS 185 / ELPH 180",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163920.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-015",
+    "title": "Canon IXUS 155",
+    "imageUrl": "/photos/camera-photo-015.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "IXUS 155",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163926.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-016",
+    "title": "om through.lens,ph + Canon IXUS 125 HS (ELPH 110 HS) +.° 9",
+    "imageUrl": "/photos/camera-photo-016.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "IXUS 125 HS / ELPH 110 HS",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163931.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-017",
+    "title": "oi _ - PowerShot ELPH 135 IS ¢.°'",
+    "imageUrl": "/photos/camera-photo-017.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot ELPH 135 IS",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163942.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-018",
+    "title": "She oe PowerShot ELPH 135 IS .°",
+    "imageUrl": "/photos/camera-photo-018.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot ELPH 135 IS",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163949.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-019",
+    "title": "a a cman, PowerShot A3400 IS .° 9",
+    "imageUrl": "/photos/camera-photo-019.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot A3400 IS",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 163955.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-020",
+    "title": "a a PowerShot A2500 .° 9",
+    "imageUrl": "/photos/camera-photo-020.jpg",
+    "matchedBrand": "",
+    "matchedModel": "",
+    "matchScore": 0,
+    "sourceFile": "Screenshot 2026-10-31 164001.png",
+    "verifiedModelMatch": false
+  },
+  {
+    "id": "photo-021",
+    "title": "Canon PowerShot A2400 IS Baby Blue",
+    "imageUrl": "/photos/camera-photo-021.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot A2400 IS — Baby Blue",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164007.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-022",
+    "title": "Canon PowerShot A2400 IS Black",
+    "imageUrl": "/photos/camera-photo-022.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot A2400 IS — Black",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164012.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-023",
+    "title": "oes. PowerShot A2300 .° 9",
+    "imageUrl": "/photos/camera-photo-023.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot A2300",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164018.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-024",
+    "title": ". ome, PowerShot A2000 IS .° 9",
+    "imageUrl": "/photos/camera-photo-024.jpg",
+    "matchedBrand": "",
+    "matchedModel": "",
+    "matchScore": 0,
+    "sourceFile": "Screenshot 2026-10-31 164024.png",
+    "verifiedModelMatch": false
+  },
+  {
+    "id": "photo-025",
+    "title": ".. COOLPIX $8000 .° 9",
+    "imageUrl": "/photos/camera-photo-025.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX S8000",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164029.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-026",
+    "title": "\\ ame COOLPIX L110 .° 9",
+    "imageUrl": "/photos/camera-photo-026.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX L110",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164036.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-027",
+    "title": "Sa ee COOLPIX $3300 .° 9",
+    "imageUrl": "/photos/camera-photo-027.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX S3300",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164043.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-028",
+    "title": ". snepame. COOLPIX $3200 .° 9",
+    "imageUrl": "/photos/camera-photo-028.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX S3200",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164048.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-029",
+    "title": "\\ a COOLPIX $2600 .° 9",
+    "imageUrl": "/photos/camera-photo-029.jpg",
+    "matchedBrand": "",
+    "matchedModel": "",
+    "matchScore": 0,
+    "sourceFile": "Screenshot 2026-10-31 164054.png",
+    "verifiedModelMatch": false
+  },
+  {
+    "id": "photo-030",
+    "title": "\\ oo memame COOLPIX $100 .° 9",
+    "imageUrl": "/photos/camera-photo-030.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX S100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164100.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-031",
+    "title": "\\ armas COOLPIX $100 .° 9",
+    "imageUrl": "/photos/camera-photo-031.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX S100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164106.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-032",
+    "title": ". oo COOLPIX $70 .° 9",
+    "imageUrl": "/photos/camera-photo-032.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX S70",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164112.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-033",
+    "title": "\\ yumm, Cyber-shot DSC-WX30 .° 9",
+    "imageUrl": "/photos/camera-photo-033.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-WX30",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164118.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-034",
+    "title": "aus, Cyber-shot DSC-H3 .° 9",
+    "imageUrl": "/photos/camera-photo-034.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-H3",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164124.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-035",
+    "title": "..\\ _ _ Cyber-shot DSC-T99 .° 9",
+    "imageUrl": "/photos/camera-photo-035.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-T99",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164133.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-036",
+    "title": "_ Cyber-shot DSC-TX9 .° 9",
+    "imageUrl": "/photos/camera-photo-036.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-TX9",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164138.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-037",
+    "title": "Sa ams, Cyber-shot DSC-W800 .° 9",
+    "imageUrl": "/photos/camera-photo-037.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W800",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164144.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-038",
+    "title": "\\ oon, Cyber-shot DSC-W710 .° 9",
+    "imageUrl": "/photos/camera-photo-038.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W710",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164150.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-039",
+    "title": "a Cyber-shot DSC-W610 .° 9",
+    "imageUrl": "/photos/camera-photo-039.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W610",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164155.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-040",
+    "title": "\\ acim, Cyber-shot DSC-W530 .° 9",
+    "imageUrl": "/photos/camera-photo-040.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W530",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164202.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-041",
+    "title": ". om, Cyber-shot DSC-W530 .° 9",
+    "imageUrl": "/photos/camera-photo-041.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W530",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164208.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-042",
+    "title": ".\\ oon, Cyber-shot DSC-W510 .° 9",
+    "imageUrl": "/photos/camera-photo-042.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W510",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164214.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-043",
+    "title": "Sony Cyber-shot DSC-W320",
+    "imageUrl": "/photos/camera-photo-043.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W320",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164228.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-044",
+    "title": "4) om, Cyber-shot DSC-W320 .° 9",
+    "imageUrl": "/photos/camera-photo-044.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W320",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164235.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-045",
+    "title": "\\ Cyber-shot DSC-W320 .° 9",
+    "imageUrl": "/photos/camera-photo-045.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W320",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164249.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-046",
+    "title": "2) oo mean, Cyber-shot DSC-W310 .° 9",
+    "imageUrl": "/photos/camera-photo-046.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W310",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164256.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-047",
+    "title": ". a cms, Cyber-shot DSC-W310 .° 9",
+    "imageUrl": "/photos/camera-photo-047.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W310",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164301.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-048",
+    "title": "..\\ _ ~ ._ pus }1 830 (Stylus 830) .° 9",
+    "imageUrl": "/photos/camera-photo-048.jpg",
+    "matchedBrand": "Olympus",
+    "matchedModel": "Stylus 830",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164306.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-049",
+    "title": "Olympus D-560 Zoom",
+    "imageUrl": "/photos/camera-photo-049.jpg",
+    "matchedBrand": "Olympus",
+    "matchedModel": "D-560 Zoom",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164311.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-050",
+    "title": "Olympus FE-150",
+    "imageUrl": "/photos/camera-photo-050.jpg",
+    "matchedBrand": "Olympus",
+    "matchedModel": "FE-150",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164316.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-051",
+    "title": "sus, pus 1 820 (Stylus 820) .° 9",
+    "imageUrl": "/photos/camera-photo-051.jpg",
+    "matchedBrand": "Olympus",
+    "matchedModel": "Stylus 820",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164321.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-052",
+    "title": ". oes. PowerShot A800 .° 9",
+    "imageUrl": "/photos/camera-photo-052.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot A800",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164326.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-053",
+    "title": "Canon PowerShot A200",
+    "imageUrl": "/photos/camera-photo-053.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot A200",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164332.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-054",
+    "title": "\\ snepim, PowerShot A40 .° 9",
+    "imageUrl": "/photos/camera-photo-054.jpg",
+    "matchedBrand": "",
+    "matchedModel": "",
+    "matchScore": 0,
+    "sourceFile": "Screenshot 2026-10-31 164338.png",
+    "verifiedModelMatch": false
+  },
+  {
+    "id": "photo-055",
+    "title": "Olympus VG-150",
+    "imageUrl": "/photos/camera-photo-055.jpg",
+    "matchedBrand": "Olympus",
+    "matchedModel": "VG-150",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164345.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-056",
+    "title": "Olympus VG-110",
+    "imageUrl": "/photos/camera-photo-056.jpg",
+    "matchedBrand": "Olympus",
+    "matchedModel": "VG-110",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164351.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-057",
+    "title": ". a SELECTA 14 .° 9",
+    "imageUrl": "/photos/camera-photo-057.jpg",
+    "matchedBrand": "AgfaPhoto",
+    "matchedModel": "SELECTA 14",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164357.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-058",
+    "title": ". ee SELECTA 14 .° 9",
+    "imageUrl": "/photos/camera-photo-058.jpg",
+    "matchedBrand": "AgfaPhoto",
+    "matchedModel": "SELECTA 14",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164402.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-059",
+    "title": "\\ oon, Cyber-shot DSC-W330 .° 9",
+    "imageUrl": "/photos/camera-photo-059.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W330",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164407.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-060",
+    "title": "Samsung L301",
+    "imageUrl": "/photos/camera-photo-060.jpg",
+    "matchedBrand": "Samsung",
+    "matchedModel": "L301",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164412.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-061",
+    "title": "Jha a cegy. Lumix DMC-FX1 #.° 9",
+    "imageUrl": "/photos/camera-photo-061.jpg",
+    "matchedBrand": "Panasonic",
+    "matchedModel": "Lumix DMC-FX1",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164420.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-062",
+    "title": "GE PJ1",
+    "imageUrl": "/photos/camera-photo-062.jpg",
+    "matchedBrand": "GE",
+    "matchedModel": "PJ1",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164426.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-063",
+    "title": "GE A950",
+    "imageUrl": "/photos/camera-photo-063.jpg",
+    "matchedBrand": "GE",
+    "matchedModel": "A950",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164431.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-064",
+    "title": "GE A1255",
+    "imageUrl": "/photos/camera-photo-064.jpg",
+    "matchedBrand": "GE",
+    "matchedModel": "A1255",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164436.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-065",
+    "title": "GE A1035 +.° 9",
+    "imageUrl": "/photos/camera-photo-065.jpg",
+    "matchedBrand": "GE",
+    "matchedModel": "A1035",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164441.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-066",
+    "title": "a a rnmee. Caplio RR211 .\" 9",
+    "imageUrl": "/photos/camera-photo-066.jpg",
+    "matchedBrand": "Ricoh",
+    "matchedModel": "Caplio RR211",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164447.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-067",
+    "title": "v@. through.lens,ph + Samsung DV100 +.° 9",
+    "imageUrl": "/photos/camera-photo-067.jpg",
+    "matchedBrand": "Samsung",
+    "matchedModel": "DV100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164454.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-068",
+    "title": "HP s300 +.° 9",
+    "imageUrl": "/photos/camera-photo-068.jpg",
+    "matchedBrand": "HP",
+    "matchedModel": "s300",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164500.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-069",
+    "title": "oe COOLPIX W100 .° 9",
+    "imageUrl": "/photos/camera-photo-069.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX W100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164525.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-070",
+    "title": "SANYO Xacti E6 +.°",
+    "imageUrl": "/photos/camera-photo-070.jpg",
+    "matchedBrand": "Sanyo",
+    "matchedModel": "Xacti E6",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164532.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-071",
+    "title": "Casio EX-Z30",
+    "imageUrl": "/photos/camera-photo-071.jpg",
+    "matchedBrand": "Casio",
+    "matchedModel": "EX-Z30",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164539.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-072",
+    "title": "Casio EX-Z40",
+    "imageUrl": "/photos/camera-photo-072.jpg",
+    "matchedBrand": "Casio",
+    "matchedModel": "EX-Z40",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164547.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-073",
+    "title": ". aap PICSIO GC-FM1 #.° 9",
+    "imageUrl": "/photos/camera-photo-073.jpg",
+    "matchedBrand": "JVC",
+    "matchedModel": "PICSIO GC-FM1",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164555.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-074",
+    "title": "Olympus VG-170",
+    "imageUrl": "/photos/camera-photo-074.jpg",
+    "matchedBrand": "Olympus",
+    "matchedModel": "VG-170",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164604.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-075",
+    "title": "Gru through.lens,ph + Pentax Optio RZ10 +.° 9",
+    "imageUrl": "/photos/camera-photo-075.jpg",
+    "matchedBrand": "Pentax",
+    "matchedModel": "Optio RZ10",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164612.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-076",
+    "title": "vf. through.lens,ph + Sanyo Xacti VPC-1 +.° 9",
+    "imageUrl": "/photos/camera-photo-076.jpg",
+    "matchedBrand": "Sanyo",
+    "matchedModel": "Xacti VPC-1",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164621.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-077",
+    "title": "Sony Cyber-shot DSC-W510",
+    "imageUrl": "/photos/camera-photo-077.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W510",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164628.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-078",
+    "title": "a | semcmn, Cyber-shot DSC-W220 .° 9",
+    "imageUrl": "/photos/camera-photo-078.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W220",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164638.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-079",
+    "title": "- orm, Cyber-shot DSC-W510 .° 9",
+    "imageUrl": "/photos/camera-photo-079.jpg",
+    "matchedBrand": "Sony",
+    "matchedModel": "Cyber-shot DSC-W510",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164645.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-080",
+    "title": "a ogee, PowerShot A2200 .° 9",
+    "imageUrl": "/photos/camera-photo-080.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot A2200",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164656.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-081",
+    "title": "2 a nan Exilim EX-Z370 .° 9",
+    "imageUrl": "/photos/camera-photo-081.jpg",
+    "matchedBrand": "Casio",
+    "matchedModel": "Exilim EX-Z370*",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164704.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-082",
+    "title": "~ oe nen, Lumix DMC-LS6 .° 9",
+    "imageUrl": "/photos/camera-photo-082.jpg",
+    "matchedBrand": "Panasonic",
+    "matchedModel": "Lumix DMC-LS6",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164712.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-083",
+    "title": "Sa og PowerShot A2300 .° 0",
+    "imageUrl": "/photos/camera-photo-083.jpg",
+    "matchedBrand": "Canon",
+    "matchedModel": "PowerShot A2300",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164720.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-084",
+    "title": "vam mone COOLPIX E3100 .° 9",
+    "imageUrl": "/photos/camera-photo-084.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX E3100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164725.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-085",
+    "title": "Nikon COOLPIX £4100 +.°",
+    "imageUrl": "/photos/camera-photo-085.jpg",
+    "matchedBrand": "Nikon",
+    "matchedModel": "COOLPIX E4100",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164733.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-086",
+    "title": "HP s300 +.° 9",
+    "imageUrl": "/photos/camera-photo-086.jpg",
+    "matchedBrand": "HP",
+    "matchedModel": "s300",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164741.png",
+    "verifiedModelMatch": true
+  },
+  {
+    "id": "photo-087",
+    "title": "a wan, Luxmedia 14-250 .° 9",
+    "imageUrl": "/photos/camera-photo-087.jpg",
+    "matchedBrand": "Praktica",
+    "matchedModel": "Luxmedia 14-250",
+    "matchScore": 1.0,
+    "sourceFile": "Screenshot 2026-10-31 164748.png",
+    "verifiedModelMatch": true
+  }
+]

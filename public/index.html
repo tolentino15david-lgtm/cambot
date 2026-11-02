@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#171915">
+  <meta name="description" content="Browse second-hand digital cameras curated by ThroughLens. Compare prices, conditions, inclusions, and original listings.">
+  <title>ThroughLens — Camera Catalogue</title>
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Manrope:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="/styles.css">
+</head>
+<body>
+  <header class="site-header">
+    <a class="brand" href="/" aria-label="ThroughLens home">
+      <span class="brand-icon">TL<span>◉</span></span>
+      <span class="brand-copy"><strong>ThroughLens</strong><small>CAMERA FINDS, MADE SIMPLE.</small></span>
+    </a>
+    <nav class="header-nav"><a href="#catalogue">Catalogue</a><a href="#how-it-works">How it works</a></nav>
+    <a class="header-cta" href="#catalogue">Explore cameras <span>↗</span></a>
+  </header>
+
+  <main>
+    <section class="hero">
+      <div class="hero-content">
+        <div class="eyebrow"><span class="eyebrow-dot"></span> THE THROUGHLENS CAMERA CATALOGUE</div>
+        <h1>Find your next<br><em>point of view.</em></h1>
+        <p class="hero-copy">Your next favourite camera might be waiting here. Explore camera finds, compare the details, and open the original listing before you decide.</p>
+        <a class="hero-button" href="#catalogue">Browse the catalogue <span>↓</span></a>
+        <div class="hero-note"><span class="tiny-check">✓</span> Curated listings · Clear condition notes · Original seller links</div>
+      </div>
+      <div class="hero-visual" aria-label="Camera illustration">
+        <div class="visual-glow"></div>
+        <div class="floating-tag tag-top"><span class="tag-dot"></span> YOUR NEXT CAMERA</div>
+        <div class="camera-art">
+          <div class="camera-strap"></div>
+          <div class="camera-body"><div class="camera-top"></div><div class="camera-flash"></div><div class="camera-viewfinder"></div><div class="lens-outer"><div class="lens-mid"><div class="lens-inner"><div class="lens-glint"></div></div></div></div><div class="camera-label">THROUGHLENS</div><div class="camera-button"></div></div>
+        </div>
+        <div class="floating-tag tag-bottom"><span class="sparkle">✳</span> Small camera. Big memories.</div>
+        <div class="visual-index">TL / 001</div>
+      </div>
+    </section>
+
+    <section id="catalogue" class="catalogue-section">
+      <div class="section-top">
+        <div><div class="eyebrow dark-eyebrow">THE COLLECTION</div><h2>Camera catalogue<span class="period">.</span></h2><p class="section-copy">Browse the finds. Check the details. Choose your point of view.</p></div>
+        <div class="catalogue-count"><strong id="resultCount">—</strong><span>camera listings</span></div>
+      </div>
+
+      <div class="toolbar">
+        <label class="search-box"><span class="search-icon">⌕</span><input id="searchInput" type="search" placeholder="Search camera model or brand..." autocomplete="off"><kbd>⌘ K</kbd></label>
+        <div class="filter-group">
+          <label class="select-wrap"><span>Brand</span><select id="brandFilter"><option value="">All brands</option></select></label>
+          <label class="select-wrap"><span>Budget</span><select id="budgetFilter"><option value="">Any price</option><option value="5000">Under ₱5,000</option><option value="10000">Under ₱10,000</option><option value="15000">Under ₱15,000</option><option value="20000">Under ₱20,000</option><option value="30000">Under ₱30,000</option></select></label>
+          <label class="select-wrap"><span>Status</span><select id="statusFilter"><option value="">All listings</option><option value="available">Available</option><option value="needs_review">Needs confirmation</option><option value="sold">Sold</option><option value="unavailable">Unavailable</option></select></label>
+          <select id="sortFilter" class="sort-select" aria-label="Sort cameras"><option value="featured">Sort: Featured</option><option value="price-asc">Price: Low to high</option><option value="price-desc">Price: High to low</option><option value="brand">Brand: A to Z</option></select>
+        </div>
+      </div>
+      <div class="active-filter-row"><span id="filterSummary">Showing all camera listings</span><span id="syncStatus" class="sync-status" aria-live="polite">Connecting to Google Sheets…</span><button id="clearFilters" class="clear-button" type="button">Clear filters ×</button></div>
+      <div id="productGrid" class="product-grid" aria-live="polite"><div class="loading-state">Loading camera finds<span>…</span></div></div>
+      <div id="emptyState" class="empty-state" hidden><div class="empty-icon">⌕</div><h3>No cameras found</h3><p>Try another model, brand, or budget.</p><button id="resetSearch" class="outline-button">Reset filters</button></div>
+      <div class="catalogue-footnote"><span class="info-icon">i</span><p>Listings and prices are provided for browsing purposes. Availability, final price, condition, and inclusions should be confirmed with the seller before purchase. “Needs confirmation” means the listing has not yet been verified as available.</p></div>
+    </section>
+
+    <section id="how-it-works" class="how-section">
+      <div class="how-heading"><div class="eyebrow">A BETTER WAY TO BROWSE</div><h2>Less scrolling.<br><em>More discovering.</em></h2></div>
+      <div class="how-cards">
+        <article class="how-card"><span class="how-number">01</span><div class="how-icon">⌕</div><h3>Find your match</h3><p>Search by model, brand, or budget to narrow down your camera options.</p></article>
+        <article class="how-card"><span class="how-number">02</span><div class="how-icon">◉</div><h3>Know the details</h3><p>Review condition notes, known issues, inclusions, and listing status.</p></article>
+        <article class="how-card"><span class="how-number">03</span><div class="how-icon">↗</div><h3>Check the source</h3><p>Open the original seller post to view their photos and confirm the latest details.</p></article>
+      </div>
+    </section>
+  </main>
+
+  <footer class="site-footer"><a class="footer-brand" href="/">ThroughLens<span>®</span></a><span>Find the camera. Keep the memory.</span><span>© <span id="year"></span> ThroughLens</span></footer>
+
+  <dialog id="cameraDialog" class="camera-dialog"><button class="dialog-close" id="closeDialog" aria-label="Close details">×</button><div id="dialogContent"></div></dialog>
+  <script src="/app.js"></script>
+</body>
+</html>
